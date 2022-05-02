@@ -48,6 +48,10 @@ plt.title('Random Clasification Data with 2 classes')
 
 
 
+
+
+
+
 ## Result:
 Thus the random classifier was successfully implemented using python programming.
 
