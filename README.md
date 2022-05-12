@@ -24,7 +24,6 @@ One of the most important features of the Random Forest Algorithm is that it can
 
 ## <br>Program:
 ```
-
 Program to implement random classification.
 Developed by   :KUMARAN B
 RegisterNumber : 212220230026
@@ -43,8 +42,6 @@ plt.title('Random Clasification Data with 2 classes')
 
 ## Output:
 ![WhatsApp Image 2022-04-19 at 7 41 51 PM](https://user-images.githubusercontent.com/75243072/164024403-1f1f30c9-27f5-48cb-83f2-04e7e6f2a544.jpeg)
-
-
 
 
 
