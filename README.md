@@ -23,11 +23,10 @@ One of the most important features of the Random Forest Algorithm is that it can
 4..Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
 ## Program:
-```
 Program to implement random classification.
 Developed by   :KUMARAN B
 RegisterNumber : 212220230026
-```
+
 ```python
 import matplotlib.pyplot as plt
 from sklearn import datasets
